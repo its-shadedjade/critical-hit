@@ -4,14 +4,16 @@ A pixel-art dice battle game that runs entirely in your browser. No installs, no
 dependencies, no server — each game is a single self-contained HTML file. Open it
 and roll.
 
+**▶ [Play it now](https://its-shadedjade.github.io/critical-hit/)** — no download needed.
+
 ![dice roll](dice_roll_transparent.gif)
 
 ## The games
 
-| File | Mode |
-|---|---|
-| [`critical_hit_dice_game.html`](critical_hit_dice_game.html) | **Duel** — head-to-head dice battle |
-| [`critical_hit_boss_test.html`](critical_hit_boss_test.html) | **Boss battle only test** |
+| Play | File | Mode |
+|---|---|---|
+| [▶ play](https://its-shadedjade.github.io/critical-hit/critical_hit_dice_game.html) | [`critical_hit_dice_game.html`](critical_hit_dice_game.html) | **Duel** — head-to-head dice battle |
+| [▶ play](https://its-shadedjade.github.io/critical-hit/critical_hit_boss_test.html) | [`critical_hit_boss_test.html`](critical_hit_boss_test.html) | **Boss battle only test** |
 
 ## How to Play
 
