@@ -22,11 +22,6 @@ and roll.
 That's it. The dice, animations, and sparkles are all hand-drawn on a `<canvas>`
 at chunky pixel scale.
 
-## Prototypes
-
-`dice_roll_mockup.html` and `dice_roll_mockup_v2.html` are the early animation
-test benches the game grew out of — kept for the archaeology.
-
 ## Origins
 
 Built as the table-top centerpiece for a long-running roleplay campaign — the
