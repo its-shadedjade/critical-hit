@@ -3,3 +3,6 @@ frames/
 dice_roll_mockup.html
 dice_roll_mockup_v2.html
 dice_roll.gif
+
+# machine-local Claude permissions (do not travel)
+.claude/settings.local.json

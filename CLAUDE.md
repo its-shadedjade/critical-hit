@@ -19,6 +19,17 @@ server. Public repo; published via GitHub Pages at
 Git history is the fine-grained archive under LOG.md — write commit messages
 that explain *why*, so `git log` stays readable years later.
 
+## Rooting a session (the working-folder gotcha)
+
+Set the chat's **working folder** to this repo's directory — that is what
+loads this file, picks the right rules card, and gives the session its own
+permission allowlist. The *second* box ("add folders") is for extra
+locations, not the root; setting only that leaves the session rooted at
+`~/Claude` (learned 2026-07-26 — every chat had been rooted there for weeks).
+
+Quick check: if the session did not open by knowing what this project is,
+the working folder is wrong.
+
 ## Where things live
 
 | Path | What |
