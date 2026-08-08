@@ -7,7 +7,7 @@ server. Public repo; published via GitHub Pages at
 
 **This file is the brain. Read it first, every session, on any machine.**
 
-## Session protocol (the same in every one of Jade's repos)
+## Session protocol (the same in every one of these repos)
 
 1. **Start**: read this file, then `notes/LOG.md` (newest entry on top).
    `git pull` — another machine may have moved things.
@@ -50,7 +50,7 @@ the working folder is wrong.
   works.
 - **Two files, one game.** Balance or animation changes usually need to land
   in BOTH the duel and the boss-test file — check the other one.
-- **This repo is PUBLIC** (the only one of Jade's that is). Nothing personal,
+- **This repo is PUBLIC** (the only one of these that is). Nothing personal,
   no keys, no work references, no homelab detail.
 - **The README is the rulebook.** Change a payout, a kill zone, or a limit
   break, and the README changes in the same commit.
