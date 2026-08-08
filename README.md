@@ -15,13 +15,13 @@ file. Open it and roll.
 
 ## 🗺️ Map
 
-- [`🎮 The games`](#-the-games)
-- [`⚔️ The duel`](#-the-duel)
-- [`👹 The boss`](#-the-boss)
-- [`💾 Running it offline`](#-running-it-offline)
+- [`🎮 Games`](#-games)
+- [`⚔️ Duel`](#-duel)
+- [`👹 Boss`](#-boss)
+- [`💾 Offline`](#-offline)
 - [`📝 License`](#-license)
 
-## 🎮 The games
+## 🎮 Games
 
 Two modes, both playable in the browser with one click.
 
@@ -33,7 +33,7 @@ Two modes, both playable in the browser with one click.
 You start with **1000 gil**. Lose it all and it is game over. Revive at 1000
 and fight on.
 
-## ⚔️ The duel
+## ⚔️ Duel
 
 You and the Enemy each start at **50 HP**. Your rolls damage the Enemy. After
 each of yours, the Enemy rolls 4 dice back at you. Cut them down before your own
@@ -58,7 +58,7 @@ Payout is your bet times the multiplier.
 | Over 50 | Reflects damage |
 | Your HP hits 0 | You perish |
 
-## 👹 The boss
+## 👹 Boss
 
 Win **3 fights** to unlock it. They do not have to be in a row. Watch the
 ● ● ● tracker.
@@ -78,7 +78,7 @@ reward is doubled.
 | Exactly 100 | 10× |
 | 90–99 (Strike) | 4× |
 
-## 💾 Running it offline
+## 💾 Offline
 
 Clone the repo and double-click either `.html` file. It opens in your browser
 and everything else is on screen. There is nothing to install.
